@@ -2,3 +2,5 @@ nom: Etcheverry
 âge: 20 ans
 sexe: M
 taille: 1,70 m
+couleur préfére: Bordeaux
+lieu de naissance: Sedan
