@@ -1,0 +1,4 @@
+nom: Etcheverry
+âge: 20 ans
+sexe: M
+taille: 1,70 m
